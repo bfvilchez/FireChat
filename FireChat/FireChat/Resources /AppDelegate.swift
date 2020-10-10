@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FireChat
 //
-//  Created by Brian Vilchez on 9/25/20.
+//  Created by Brian Vilchez on 10/5/20.
 //
 
 import UIKit
